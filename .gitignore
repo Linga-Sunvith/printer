@@ -14,5 +14,10 @@ Thumbs.db
 .vscode/
 .idea/
 
+# Build outputs
+*.exe
+bin/
+obj/
+
 # TypeScript cache
 *.tsbuildinfo
